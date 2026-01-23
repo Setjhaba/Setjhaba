@@ -1,7 +1,7 @@
 # Hi, I’m Setjhaba 👋
 
 Mechanical engineering student with a strong focus on building practical, real-world systems.  
-I work at the intersection of **mechanics, software, and problem-driven design**.
+I work at the intersection of **mechanics, software, and problem driven design**.
 
 ---
 
@@ -44,6 +44,7 @@ Mechanical and Software Engineering background.
 
 ## - ⚡ Fun fact
 - I’m training for Ironman and Comrades — consistency and iteration matter in both.
+- Oh, I can also solve a Rubiks cube 
 
 ---
 
