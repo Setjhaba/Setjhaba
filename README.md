@@ -1,7 +1,7 @@
 # Hi, I’m Setjhaba 👋
 
 Mechanical engineering student with a strong focus on building practical, real-world systems.  
-I work at the intersection of **mechanics, software, and problem driven design**.
+I work at the intersection of mechanics, software, and problem driven design.
 
 ---
 ## 🧰 Tech Stack & Skills
