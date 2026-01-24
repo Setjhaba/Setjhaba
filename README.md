@@ -28,25 +28,36 @@ I work at the intersection of **mechanics, software, and problem driven design**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Setjhaba&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Setjhaba&theme=tokyonight)
-
 ---
 
 ## 📂 Featured Projects
 
-### [Project 1 — Python Automation Tool](https://github.com/Setjhaba/YOUR_PROJECT_1)
-Automates repetitive engineering calculations and generates detailed reports in seconds.
+### [Project 1 — Inventory Management System](https://github.com/Setjhaba/shoe-inventory-management-system)
+A full-featured inventory app for tracking stock across products.
+Implements OOP design with a Shoe class
+Provides restocking alerts, search, inventory valuation, and sales suggestions
+Uses tabulate for clean table-based outputs
+Ideal for demonstrating data handling and business logic skills 
 
-### [Project 2 — Flask News App](https://github.com/Setjhaba/YOUR_PROJECT_2)
-A web app that fetches and displays the latest news headlines with search and filter functionality.
+### [Project 2 — eBookstore Management System](https://github.com/Setjhaba/capstone-project-ebookstore-management-system)
+A multi-table database application for managing books and authors.
+Uses SQLite with proper foreign key relationships
+Supports CRUD operations for books and authors
+Includes search, update, and deletion functionalities
+Optional sample data SQL demonstrates foresight for usability and testing
 
-### [Project 3 — Data Analysis Dashboard](https://github.com/Setjhaba/YOUR_PROJECT_3)
-Visualizes engineering and software data in interactive charts for better decision-making.
+### [Project 3 — News Application](https://github.com/Setjhaba/capstone-project-news-application)
+A command-line task manager with role-based functionality.
+Supports admin and user roles, task assignment, and status updates
+Tracks task completion, overdue tasks, and user stats
+Generates task and user reports for management insights
+Showcases OOP, file I/O, and date handling 
 
-### [Project 4 — AI/ML Mini Projects](https://github.com/Setjhaba/YOUR_PROJECT_4)
-A collection of small machine learning projects demonstrating data preprocessing, model training, and predictions.
-
-*(Replace the project links and descriptions with your actual repos)*
+### [Project 4 — Financial Calculator](https://github.com/Setjhaba/capstone-project-financial-calculator)
+A CLI tool for financial calculations.
+Calculates investment returns (simple & compound interest)
+Calculates bond repayments for mortgage planning
+Demonstrates math logic, user input validation, and practical utility
 
 ---
 
