@@ -72,7 +72,7 @@ Demonstrates math logic, user input validation, and practical utility
 ## 📈 Engineering Mindset
 - I value clean design, documentation, and iteration
 - I prefer simple, robust solutions over over-engineered ones
-- I believe engineering skill is built by **finishing projects**, not just starting them
+- I believe engineering skill is built by finishing projects, not just starting them
 
 ---
 
