@@ -69,13 +69,6 @@ Demonstrates math logic, user input validation, and practical utility
 
 ---
 
-## 📌 Featured Projects
-Below are selected  Capstone projects that I worked on as part of the HyperionDev Bootcamp.
-Other projects are personal projects where that reflect the intersection on my Marine,
-Mechanical and Software Engineering background.
-
----
-
 ## 📈 Engineering Mindset
 - I value clean design, documentation, and iteration
 - I prefer simple, robust solutions over over-engineered ones
