@@ -84,4 +84,4 @@ Demonstrates math logic, user input validation, and practical utility
 
 ## 📫 Get in Touch
 - LinkedIn: [www.linkedin.com/in/setjhaba-motsoahole/]
-- Portfolio (GitHub Pages): [Coming Soon...]
+- Portfolio (GitHub Pages): [https://setjhaba.github.io/Setjhaba-Motsoahole-Portfolio/]
