@@ -19,7 +19,7 @@ I work at the intersection of mechanics, software, and problem driven design.
 - Python
 - HTML / CSS
 - Git & GitHub
-- 
+  
 ---
 
 ## 📊 GitHub Stats
