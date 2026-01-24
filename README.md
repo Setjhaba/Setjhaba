@@ -4,12 +4,22 @@ Mechanical engineering student with a strong focus on building practical, real-w
 I work at the intersection of **mechanics, software, and problem driven design**.
 
 ---
-## 🧰 Tech Stack
+## 🧰 Tech Stack & Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+**Engineering**
+- Mechanical design & problem solving
+- Workshop fabrication & prototyping
+- Basic electronics
+
+**Software**
+- Python
+- HTML / CSS
+- Git & GitHub
+- 
 ---
 
 ## 📊 GitHub Stats
@@ -17,6 +27,8 @@ I work at the intersection of **mechanics, software, and problem driven design**
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Setjhaba&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Setjhaba&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Setjhaba&theme=tokyonight)
 
 ---
 
@@ -43,21 +55,6 @@ A collection of small machine learning projects demonstrating data preprocessing
 - Software tools for engineering, analysis, and automation
 - Maritime automation and optimzation
 - Long-term development toward high-performance engineering and systems thinking
-
----
-
-## 🧠 Skills & Tools
-**Engineering**
-- Mechanical design & problem solving
-- Basic CAD (Fusion 360 / AutoCAD)
-- Workshop fabrication & prototyping
-- Basic electronics
-
-**Software**
-- Python
-- HTML / CSS
-- Git & GitHub
-- Data analysis & automation scripts
 
 ---
 
