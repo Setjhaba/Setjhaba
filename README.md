@@ -4,6 +4,39 @@ Mechanical engineering student with a strong focus on building practical, real-w
 I work at the intersection of **mechanics, software, and problem driven design**.
 
 ---
+## 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Setjhaba&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Setjhaba&layout=compact&theme=tokyonight)
+
+---
+
+## 📂 Featured Projects
+
+### [Project 1 — Python Automation Tool](https://github.com/Setjhaba/YOUR_PROJECT_1)
+Automates repetitive engineering calculations and generates detailed reports in seconds.
+
+### [Project 2 — Flask News App](https://github.com/Setjhaba/YOUR_PROJECT_2)
+A web app that fetches and displays the latest news headlines with search and filter functionality.
+
+### [Project 3 — Data Analysis Dashboard](https://github.com/Setjhaba/YOUR_PROJECT_3)
+Visualizes engineering and software data in interactive charts for better decision-making.
+
+### [Project 4 — AI/ML Mini Projects](https://github.com/Setjhaba/YOUR_PROJECT_4)
+A collection of small machine learning projects demonstrating data preprocessing, model training, and predictions.
+
+*(Replace the project links and descriptions with your actual repos)*
+
+---
 
 ## 🔧 What I’m Working On
 - Mechanical engineering projects 
