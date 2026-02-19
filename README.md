@@ -24,9 +24,9 @@ I work at the intersection of mechanics, software, and problem driven design.
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Setjhaba&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![GitHub stats](https://setjhaba-stats.vercel.app/api?username=Setjhaba&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Setjhaba&layout=compact&theme=tokyonight&cache_seconds=86400)
+![Top Languages](https://setjhaba-stats.vercel.app/api/top-langs/?username=Setjhaba&layout=compact&theme=radical)
 ---
 
 ## 📂 Featured Projects
